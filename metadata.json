@@ -1,0 +1,6 @@
+{
+  "name": "Priority Planner",
+  "description": "An intelligent task manager featuring auto-ranking based on urgency and confidence, with premium glassmorphic actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
